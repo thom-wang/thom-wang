@@ -1,17 +1,15 @@
+### Hi there 👋
+
+* 💬 Ask me about Javascript, React, Avalonia
+* 🔭 I work at SSW https://www.ssw.com.au/people/thom-wang
+ 
+* 🌱 I’m SSW Software Engineer II
+* 👯 I’m looking to build application more easy to use
+* 📫 How to reach me: the7milejourney@163.com
+* 😄 Pronouns: He/him  
+* ⚡ Fun fact: I like to play guitar🎸
+
 [![Thom Wang's github stats](https://github-readme-stats.vercel.app/api?username=thom-wang&theme=dark)](https://github.com/thom-wang/github-readme-stats)
-## Hi there 👋
 
-<!--
-**thom-wang/thom-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cheers  
+Thom Wang
