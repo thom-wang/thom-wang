@@ -1,4 +1,4 @@
-[![{{NAME}}'s github stats](https://github-readme-stats.vercel.app/api?username={{USERNAME}}&theme=dark)](https://github.com/{{USERNAME}}/github-readme-stats)
+[![Thom Wang's github stats](https://github-readme-stats.vercel.app/api?username=thom-wang&theme=dark)](https://github.com/thom-wang/github-readme-stats)
 ## Hi there 👋
 
 <!--
